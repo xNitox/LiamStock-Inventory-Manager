@@ -1,0 +1,1 @@
+-Se debe implementar una funcion para agregar stock a productos ya creados, sin la necesidad de acceder al csv
