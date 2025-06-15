@@ -1,0 +1,84 @@
+[
+    {
+        "id_venta": "dcb1d7ae-a211-4e64-996f-640b39120112",
+        "productos": [
+            {
+                "id_producto": "400feb35-74da-4979-9cb2-c346c7bef88f",
+                "nombre_producto": "pure sabroson",
+                "cantidad": 3,
+                "precio": 1600.0
+            },
+            {
+                "id_producto": "bf3f98e0-4a55-436f-b525-f2422c460cec",
+                "nombre_producto": "arroz acuenta",
+                "cantidad": 1,
+                "precio": 1000.0
+            }
+        ],
+        "total": "5800.0",
+        "fecha_de_venta": "2024-03-09 22:02:32"
+    },
+    {
+        "id_venta": "dcb1d7ae-a211-4f64-996f-640b39120122",
+        "productos": [
+            {
+                "id_producto": "400feb35-74da-4979-9cb2-c346c7bef88f",
+                "nombre_producto": "pure sabroson",
+                "cantidad": 3,
+                "precio": 1600.0
+            },
+            {
+                "id_producto": "bf3f98e0-4a55-436f-b525-f2422c460cec",
+                "nombre_producto": "arroz acuenta",
+                "cantidad": 2,
+                "precio": 1000.0
+            }
+        ],
+        "total": "6800.0",
+        "fecha_de_venta": "2025-03-09 21:02:32"
+    },
+    {
+        "id_venta": "dcb1d7ae-a210-4f64-996f-640b39120121",
+        "productos": [
+            {
+                "id_producto": "400feb35-74da-4979-9cb2-c346c7bef88f",
+                "nombre_producto": "pure sabroson",
+                "cantidad": 3,
+                "precio": 1600.0
+            },
+            {
+                "id_producto": "bf3f98e0-4a55-436f-b525-f2422c460cec",
+                "nombre_producto": "arroz acuenta",
+                "cantidad": 2,
+                "precio": 1000.0
+            }
+        ],
+        "total": "6800.0",
+        "fecha_de_venta": "2025-06-09 20:02:32"
+    },
+    {
+        "id_venta": "5d037b3c-c7ff-4f43-91e6-37055d28eed2",
+        "productos": [
+            {
+                "id_producto": "400feb35-74da-4979-9cb2-c346c7bef88f",
+                "nombre_producto": "pure sabroson",
+                "cantidad": 4,
+                "precio": 1600.0
+            },
+            {
+                "id_producto": "3e7b4378-75e3-4164-8a85-65fea855ab16",
+                "nombre_producto": "arroz miraflores",
+                "cantidad": 2,
+                "precio": 1600.0
+            },
+            {
+                "id_producto": "840d1c84-f2f4-447b-b322-bc1602023dae",
+                "nombre_producto": "fideos luchetti",
+                "cantidad": 3,
+                "precio": 1200.0
+            }
+        ],
+        "total": "13200.0",
+        "fecha_de_venta": "2025-06-09 20:05:47"
+    }
+]
