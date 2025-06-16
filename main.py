@@ -119,7 +119,10 @@ while True:
                         fecha = input(":")
                         try:
                             filtrar = reportes.reporte_filtrar_por_mes(fecha)
-                            print(filtrar)
+                            if filtrar:
+                                print(f"Producto más vendido: {filtrar['producto_mas_vendido']}")
+                                print(f"Ventas Totales: ${filtrar['total_ventas']}")
+                                print(f"Fecha del reporte: {filtrar['fecha']}")
                             break
                         except ValueError as e:
                             print(e)

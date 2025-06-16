@@ -80,5 +80,24 @@
         ],
         "total": "13200.0",
         "fecha_de_venta": "2025-06-09 20:05:47"
+    },
+    {
+        "id_venta": "d19418ce-4e13-428c-95c4-a24474d02ff1",
+        "productos": [
+            {
+                "id_producto": "3e3ad17b-e8e0-4284-a7a6-49ccce3dd250",
+                "nombre_producto": "cereal chocosabroso",
+                "cantidad": 10,
+                "precio": 2700.0
+            },
+            {
+                "id_producto": "400feb35-74da-4979-9cb2-c346c7bef88f",
+                "nombre_producto": "pure sabroson",
+                "cantidad": 2,
+                "precio": 1600.0
+            }
+        ],
+        "total": "30200.0",
+        "fecha_de_venta": "2025-06-15 22:15:59"
     }
 ]
